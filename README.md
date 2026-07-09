@@ -1,18 +1,10 @@
-# 🗡️ 青竹蜂云剑阵 (The Sword Array)
+# 🗡️ 青竹蜂云剑阵 (The Sword Array
 
-🔥 **Gemini 3.0 手搓的赛博修仙模拟器！**
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
+  <img src="https://img.shields.io/github/languages/top/ZhouYinLong-lab/GengBlade-CV" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/ZhouYinLong-lab/GengBlade-CV" alt="Last Commit">
+  <img src="https://img.shields.io/github/stars/ZhouYinLong-lab/GengBlade-CV?style=social" alt="Stars">
+</p>
 
-## 🎮 怎么玩？ (核心玩法)
 
-打开摄像头，把你的手伸出来！系统会识别你的手势来控制剑阵：
-
-| 手势            | 动作描述              | 技能效果                                        |
-|:----------------|:----------------------|:------------------------------------------------|
-| **👈 剑指**     | 食指伸出 (或手枪手势) | **游龙随行**：飞剑化作一条游龙，跟随你的指尖飞舞。 |
-| **✋ 张开手掌**  | 五指自然张开          | **莲花现世**：万剑归宗，化作一朵盛开的剑莲。       |
-| **✊ 握拳**      | 五指握紧              | **剑盾护体**：飞剑高速旋转，形成绝对防御壁垒。     |
-| **🤘 摇滚手势** | 食指+小指伸直         | **大庚剑阵**：【高能预警】召唤通天法阵与巨剑降临！  |
-
-> **💡 小贴士**：
-> *   请确保环境光线充足，摄像头能看清你的手。
-> *   手机上玩记得把屏幕横过来，效果更佳！（支持自动竖屏/横屏适配）
