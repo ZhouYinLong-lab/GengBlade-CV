@@ -1,4 +1,4 @@
-# 🗡️ 青竹蜂云剑阵 (The Sword Array
+# 🗡️ 青竹蜂云剑阵 (The Sword Array)
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
